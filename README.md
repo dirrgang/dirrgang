@@ -2,13 +2,11 @@
 #### I'm a computer-science student
 I come from a network-engineering background and went back to school to get a computer-science degree.
 
-![Mess](https://i.imgur.com/sW5otaZ.jpg?1)
+![Mess](https://i.imgur.com/cTjon1K.jpg?1)
 
 I'm interested in a great many things from various disciplines, such as woodworking, electronics, 2D/3D art and more!
 
 I'm not afraid to pick up a new skill and get my hands dirty.
-
-![dirtyhands](https://i.imgur.com/cTjon1K.jpg?1)
 
 Skills: C / C++ / Java / Python / Ansible
 
