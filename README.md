@@ -2,7 +2,7 @@
 #### I'm a computer-science student
 I come from a network-engineering background and went back to school to get a computer-science degree.
 
-![Mess](https://i.imgur.com/cTjon1K.jpg?1)
+![Mess](https://www.irrgang.dev/wp-content/uploads/2021/01/IMG_20200803_2259241.jpg)
 
 I'm interested in a great many things from various disciplines, such as woodworking, electronics, 2D/3D art and more!
 
