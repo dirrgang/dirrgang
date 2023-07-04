@@ -8,7 +8,7 @@ I'm interested in a great many things from various disciplines, such as woodwork
 
 I'm not afraid to pick up a new skill and get my hands dirty.
 
-Skills: C / C++ / Java / Python / Ansible
+Skills: C / Java / Python / Ansible / Haskell / OCaml
 
 🔭 I’m currently working on various little projects. 🌱 I’m currently learning traditional art using drawabox 📫 How to reach me: E-Mail is the most straight-forward 😄 Pronouns: He/Him ⚡ Fun fact: A human tooth has 36 calories! 
 
