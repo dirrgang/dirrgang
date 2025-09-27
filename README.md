@@ -1,16 +1,17 @@
-### Hi there 👋, my name is Dennis
-#### I'm a computer-science student
-I come from a network-engineering background and went back to school to get a computer-science degree.
+### Hi there, I'm Dennis
+#### I'm a jack of all trades
+I am a generalist with an unusual combination of expertise in information security, artistic interests, and philosophical depth.
 
-![Mess](https://www.irrgang.dev/wp-content/uploads/2021/01/IMG_20200803_2259241.jpg)
+I have learned that it is not important to be the best at one thing. Instead, I draw strength from combining different disciplines: technology, aesthetics, and ethics flow into my projects as much as reasoning, metacognition, and the joy of creating.
 
-I'm interested in a great many things from various disciplines, such as woodworking, electronics, 2D/3D art and more!
-
-I'm not afraid to pick up a new skill and get my hands dirty.
-
-Skills: C / Java / Python / Ansible / Haskell / OCaml
-
-🔭 I’m currently working on various little projects. 🌱 I’m currently learning traditional art using drawabox 📫 How to reach me: E-Mail is the most straight-forward 😄 Pronouns: He/Him ⚡ Fun fact: A human tooth has 36 calories! 
+#### From art to engineering
+Topics that shape me
+- Information security: My professional focus. Governance, risk, and compliance—informed decision-making in uncertain situations is always at the heart of what I do.
+- Network architecture: My technical foundation. From switch stacks to segmentation strategies in OT environments.
+- Philosophy & ethics: I am a staunch determinist and advocate an absurd, systemic ethic: rational, critical, not moralistic – but deeply humanistic.
+- Aesthetics & art: Material, form, and effect. Whether drawing, design, or design ethics – good aesthetics touch on the truth.
+- Metacognition: How we think influences what we believe to be true. I deal with cognitive biases, epistemic hygiene, and self-reflection.
+- Soft Skills: Negotiating, arguing, mediating. Communication is action – and often it’s the tone that makes the impact.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dirrgang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dirrgang/)  
 
